@@ -1,1 +1,0 @@
-# Secure-Over-the-Air-Computation-using-Zero-Forced-Artificial-Noise
