@@ -60,11 +60,12 @@ The results of the simulations compare the Mean Squared Error (MSE) at both the 
 
 - **MSE vs SNR (Gaussian Distribution)**
 
-  ![Gaussian Distribution](./MSE%20vs%20SNR%2010000run%20(Gaussion%20dist).png)
+  ![Gaussian Distribution](./MSE%20vs%20SNR%20100000run%20(Gaussion%20dist).png)
 
 - **MSE vs SNR (Uniform Distribution)**
 
-  ![Uniform Distribution](./MSE%20vs%20SNR%2010000run%20(Uniform%20dist).png)
+  ![Uniform Distribution](./MSE%20vs%20SNR%20100000run%20(Uniform%20dist).png)
+
 
 
 
