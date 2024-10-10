@@ -59,10 +59,11 @@ To run the MATLAB simulation:
 The results of the simulations compare the Mean Squared Error (MSE) at both the legitimate receiver and the eavesdropper under different SNR levels. The figures showing the performance for both Gaussian and Uniform distributions are provided in the repository.
 
 - **MSE vs SNR (Gaussian Distribution)**
-  
-  ![Gaussian Distribution](./MSE_vs_SNR_100000run_Gaussian_dist.png)
-  
+
+  ![Gaussian Distribution](./MSE\ vs\ SNR\ 100000run\ (Gaussion\ dist).png)
+
 - **MSE vs SNR (Uniform Distribution)**
-  
-  ![Uniform Distribution](./MSE_vs_SNR_100000run_Uniform_dist.png)
+
+  ![Uniform Distribution](./MSE\ vs\ SNR\ 100000run\ (Uniform\ dist).png)
+
 
