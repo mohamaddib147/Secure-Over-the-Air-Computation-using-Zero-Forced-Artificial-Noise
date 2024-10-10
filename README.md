@@ -53,17 +53,18 @@ To run the simulations in Python:
 ### MATLAB
 To run the MATLAB simulation:
 - Open the `Zero_Forced_Artificial_Noise.m` file in MATLAB and run the script.
-
+  
 ## Results
 
-The results of the simulations compare the Mean Squared Error (MSE) at both the legitimate receiver and the eavesdropper under different SNR levels. The figures showing the performance for both Gaussian and Uniform distributions are provided in the repository.
+The results of the simulations compare the Mean Squared Error (MSE) at both the legitimate receiver and the eavesdropper under different SNR levels. The figures showing the performance for both Gaussian and Uniform distributions are provided below.
 
 - **MSE vs SNR (Gaussian Distribution)**
 
-  ![Gaussian Distribution](./MSE\ vs\ SNR\ 100000run\ (Gaussion\ dist).png)
+  ![Gaussian Distribution](./MSE%20vs%20SNR%2010000run%20(Gaussion%20dist).png)
 
 - **MSE vs SNR (Uniform Distribution)**
 
-  ![Uniform Distribution](./MSE\ vs\ SNR\ 100000run\ (Uniform\ dist).png)
+  ![Uniform Distribution](./MSE%20vs%20SNR%2010000run%20(Uniform%20dist).png)
+
 
 
