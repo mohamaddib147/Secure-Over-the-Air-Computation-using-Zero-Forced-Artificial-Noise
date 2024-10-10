@@ -1,10 +1,10 @@
 # Secure Over-the-Air Computation using Zero-Forced Artificial Noise
 
-This repository contains the code used for my thesis project, **"Securing Wireless Computation: The Power of Uniform Inputs and Artificial Noise"**. The project investigates the impact of input distributions (Gaussian vs. Uniform) on the security and performance of Over-the-Air Computation (OAC) systems employing zero-forced artificial noise. The findings show that uniformly distributed inputs can significantly improve the security of OAC systems without degrading the performance for legitimate users.
+This repository contains the code used for my thesis project, **"Enhancing Security in Over-the-Air Computation Systems with Uniform Input Distributions"**. The project investigates the impact of input distributions (Gaussian vs. Uniform) on the security and performance of Over-the-Air Computation (OAC) systems employing zero-forced artificial noise. The findings show that uniformly distributed inputs can significantly improve the security of OAC systems without degrading the performance for legitimate users.
 
 ## Overview
 
-Over-the-Air Computation (OAC) leverages the superposition property of wireless channels to compute functions directly over the air, reducing communication overhead in distributed systems such as IoT networks. However, these systems are vulnerable to eavesdropping due to the broadcast nature of wireless channels.
+Over-the-air computation (OAC) leverages the superposition property of wireless channels to compute functions directly over the air, reducing communication overhead in distributed systems such as IoT networks. However, these systems are vulnerable to eavesdropping due to the broadcast nature of wireless channels.
 
 This research compares the effects of two different input distributions:
 - **Gaussian distribution** (original system)
