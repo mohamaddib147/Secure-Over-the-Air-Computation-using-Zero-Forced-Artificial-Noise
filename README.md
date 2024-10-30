@@ -160,25 +160,24 @@ Here's a detailed breakdown of the key files and their functionalities:
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
 For any questions or inquiries, please contact:
 
 - **Name:** Mohammad Dib
-- **Email:** [mohammad.dib@example.com](mailto:mohammad.dib@example.com)
+- **Email:** [mdeeb@kth.se](mailto:mdeeb@kth.se)
 
 ## Acknowledgments
 
-- **Supervisor:** Dr. [Supervisor's Name], for guidance and support throughout the project.
-- **Institution:** [Your University or Institution Name]
+- **Supervisor:** Dr. Xiaojing Yan, Thanks for your guidance and support throughout the project.
+- **Institution:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+
 
 ## References
 
 - Relevant literature and papers on Over-the-Air Computation and wireless security.
+- Massny, L., & Wachter-Zeh, A. (2023). *Secure Over-the-Air Computation Using Zero-Forced Artificial Noise*. In *2023 IEEE Information Theory Workshop (ITW)* (pp. 221–226). [https://doi.org/10.1109/ITW55543.2023.10161677](https://doi.org/10.1109/ITW55543.2023.10161677)
 
 ## Additional Notes
 
